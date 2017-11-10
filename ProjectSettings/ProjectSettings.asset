@@ -528,7 +528,7 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: Drag the Astronaut
   metroPackageVersion: 
-  metroCertificatePath: D:\Source\MR\Drag the Astronaut\Assets\WSATestCertificate.pfx
+  metroCertificatePath: Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
   metroCertificateSubject: DefaultCompany
   metroCertificateIssuer: DefaultCompany

@@ -31,13 +31,13 @@
     <AppXManifest Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\bin\x86\Release\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-10T17:39:32.894</Modified>
+      <Modified>2017-11-10T20:26:12.529</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\bin\x86\Release\Drag the Astronaut.exe">
       <PackagePath>entrypoint\Drag the Astronaut.exe</PackagePath>
-      <Modified>2017-11-10T17:39:13.841</Modified>
+      <Modified>2017-11-10T20:25:49.024</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\mpagani\.nuget\packages\microsoft.applicationinsights\1.0.0\lib\portable-win81+wpa81\Microsoft.ApplicationInsights.dll">
       <PackagePath>Microsoft.ApplicationInsights.dll</PackagePath>
@@ -501,7 +501,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\Resource.res">
       <PackagePath>Resource.res</PackagePath>
-      <Modified>2017-11-10T17:37:48.620</Modified>
+      <Modified>2017-11-10T20:25:15.180</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
@@ -555,15 +555,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\Data\boot.config">
       <PackagePath>Data\boot.config</PackagePath>
-      <Modified>2017-11-10T17:37:01.220</Modified>
+      <Modified>2017-11-10T20:24:25.150</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\Data\globalgamemanagers">
       <PackagePath>Data\globalgamemanagers</PackagePath>
-      <Modified>2017-11-10T17:36:06.464</Modified>
+      <Modified>2017-11-10T20:24:23.561</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\Data\level0">
       <PackagePath>Data\level0</PackagePath>
-      <Modified>2017-11-10T17:36:03.831</Modified>
+      <Modified>2017-11-10T20:24:21.554</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\Data\Resources\unity default resources">
       <PackagePath>Data\Resources\unity default resources</PackagePath>
@@ -571,43 +571,43 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\Data\Resources\unity_builtin_extra">
       <PackagePath>Data\Resources\unity_builtin_extra</PackagePath>
-      <Modified>2017-11-10T17:37:01.218</Modified>
+      <Modified>2017-11-10T20:24:25.149</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\Data\globalgamemanagers.assets">
       <PackagePath>Data\globalgamemanagers.assets</PackagePath>
-      <Modified>2017-11-10T17:36:06.779</Modified>
+      <Modified>2017-11-10T20:24:23.837</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\Data\resources.assets">
       <PackagePath>Data\resources.assets</PackagePath>
-      <Modified>2017-11-10T17:36:07.453</Modified>
+      <Modified>2017-11-10T20:24:24.270</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
-      <Modified>2017-11-10T17:36:42.335</Modified>
+      <Modified>2017-11-10T20:24:24.864</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
-      <Modified>2017-11-10T17:36:03.787</Modified>
+      <Modified>2017-11-10T20:24:21.543</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\Data\resources.assets.resS">
       <PackagePath>Data\resources.assets.resS</PackagePath>
-      <Modified>2017-11-10T17:36:07.444</Modified>
+      <Modified>2017-11-10T20:24:24.261</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\Data\sharedassets0.assets.resS">
       <PackagePath>Data\sharedassets0.assets.resS</PackagePath>
-      <Modified>2017-11-10T17:36:42.324</Modified>
+      <Modified>2017-11-10T20:24:24.854</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\Data\managedAssemblies.txt">
       <PackagePath>Data\managedAssemblies.txt</PackagePath>
-      <Modified>2017-11-10T17:37:48.520</Modified>
+      <Modified>2017-11-10T20:25:15.117</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\Data\nativePlugins.txt">
       <PackagePath>Data\nativePlugins.txt</PackagePath>
-      <Modified>2017-11-10T17:37:48.524</Modified>
+      <Modified>2017-11-10T20:25:15.119</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\Data\resources.resource">
       <PackagePath>Data\resources.resource</PackagePath>
-      <Modified>2017-11-10T17:36:07.458</Modified>
+      <Modified>2017-11-10T20:24:24.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -616,207 +616,207 @@
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\bin\x86\Release\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2017-11-10T17:39:16.093</Modified>
+      <Modified>2017-11-10T20:25:50.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.TilemapModule.dll">
       <PackagePath>UnityEngine.TilemapModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:27.700</Modified>
+      <Modified>2017-11-10T20:26:05.432</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.TextRenderingModule.dll">
       <PackagePath>UnityEngine.TextRenderingModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:27.747</Modified>
+      <Modified>2017-11-10T20:26:05.475</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:27.769</Modified>
+      <Modified>2017-11-10T20:26:05.562</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.UIElementsModule.dll">
       <PackagePath>UnityEngine.UIElementsModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:27.839</Modified>
+      <Modified>2017-11-10T20:26:05.719</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.SpriteMaskModule.dll">
       <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:27.855</Modified>
+      <Modified>2017-11-10T20:26:05.763</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.ScreenCaptureModule.dll">
       <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:27.872</Modified>
+      <Modified>2017-11-10T20:26:05.807</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:27.897</Modified>
+      <Modified>2017-11-10T20:26:05.859</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.TerrainPhysicsModule.dll">
       <PackagePath>UnityEngine.TerrainPhysicsModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:27.915</Modified>
+      <Modified>2017-11-10T20:26:05.902</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.TerrainModule.dll">
       <PackagePath>UnityEngine.TerrainModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:27.937</Modified>
+      <Modified>2017-11-10T20:26:05.952</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.StyleSheetsModule.dll">
       <PackagePath>UnityEngine.StyleSheetsModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:27.983</Modified>
+      <Modified>2017-11-10T20:26:06.011</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.037</Modified>
+      <Modified>2017-11-10T20:26:06.076</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.VRModule.dll">
       <PackagePath>UnityEngine.VRModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.067</Modified>
+      <Modified>2017-11-10T20:26:06.127</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.VideoModule.dll">
       <PackagePath>UnityEngine.VideoModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.090</Modified>
+      <Modified>2017-11-10T20:26:06.162</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.VehiclesModule.dll">
       <PackagePath>UnityEngine.VehiclesModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.112</Modified>
+      <Modified>2017-11-10T20:26:06.206</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.WindModule.dll">
       <PackagePath>UnityEngine.WindModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.128</Modified>
+      <Modified>2017-11-10T20:26:06.249</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.WebModule.dll">
       <PackagePath>UnityEngine.WebModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.150</Modified>
+      <Modified>2017-11-10T20:26:06.292</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.UnityWebRequestAudioModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestAudioModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.172</Modified>
+      <Modified>2017-11-10T20:26:06.334</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.192</Modified>
+      <Modified>2017-11-10T20:26:06.378</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.UnityAnalyticsModule.dll">
       <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.214</Modified>
+      <Modified>2017-11-10T20:26:06.418</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.UnityWebRequestWWWModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestWWWModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.248</Modified>
+      <Modified>2017-11-10T20:26:06.460</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.UnityWebRequestTextureModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestTextureModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.288</Modified>
+      <Modified>2017-11-10T20:26:06.505</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.UnityWebRequestModule.dll">
       <PackagePath>UnityEngine.UnityWebRequestModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.313</Modified>
+      <Modified>2017-11-10T20:26:06.557</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.ClothModule.dll">
       <PackagePath>UnityEngine.ClothModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.334</Modified>
+      <Modified>2017-11-10T20:26:06.603</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.AudioModule.dll">
       <PackagePath>UnityEngine.AudioModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.359</Modified>
+      <Modified>2017-11-10T20:26:06.664</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.ARModule.dll">
       <PackagePath>UnityEngine.ARModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.381</Modified>
+      <Modified>2017-11-10T20:26:06.713</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.DirectorModule.dll">
       <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.398</Modified>
+      <Modified>2017-11-10T20:26:06.748</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.414</Modified>
+      <Modified>2017-11-10T20:26:06.767</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.692</Modified>
+      <Modified>2017-11-10T20:26:07.181</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.AnimationModule.dll">
       <PackagePath>UnityEngine.AnimationModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.742</Modified>
+      <Modified>2017-11-10T20:26:07.254</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.AIModule.dll">
       <PackagePath>UnityEngine.AIModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.764</Modified>
+      <Modified>2017-11-10T20:26:07.300</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.781</Modified>
+      <Modified>2017-11-10T20:26:07.340</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.dll">
       <PackagePath>UnityEngine.dll</PackagePath>
-      <Modified>2017-11-10T17:37:25.147</Modified>
+      <Modified>2017-11-10T20:24:50.284</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.ParticlesLegacyModule.dll">
       <PackagePath>UnityEngine.ParticlesLegacyModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.807</Modified>
+      <Modified>2017-11-10T20:26:07.386</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.JSONSerializeModule.dll">
       <PackagePath>UnityEngine.JSONSerializeModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.838</Modified>
+      <Modified>2017-11-10T20:26:07.427</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.Physics2DModule.dll">
       <PackagePath>UnityEngine.Physics2DModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.865</Modified>
+      <Modified>2017-11-10T20:26:07.481</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.PerformanceReportingModule.dll">
       <PackagePath>UnityEngine.PerformanceReportingModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.908</Modified>
+      <Modified>2017-11-10T20:26:07.522</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.ParticleSystemModule.dll">
       <PackagePath>UnityEngine.ParticleSystemModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.939</Modified>
+      <Modified>2017-11-10T20:26:07.599</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.GridModule.dll">
       <PackagePath>UnityEngine.GridModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.956</Modified>
+      <Modified>2017-11-10T20:26:07.670</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:28.981</Modified>
+      <Modified>2017-11-10T20:26:07.727</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.InputModule.dll">
       <PackagePath>UnityEngine.InputModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:29.002</Modified>
+      <Modified>2017-11-10T20:26:07.769</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.IMGUIModule.dll">
       <PackagePath>UnityEngine.IMGUIModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:29.038</Modified>
+      <Modified>2017-11-10T20:26:07.850</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.ImageConversionModule.dll">
       <PackagePath>UnityEngine.ImageConversionModule.dll</PackagePath>
-      <Modified>2017-11-10T17:39:29.089</Modified>
+      <Modified>2017-11-10T20:26:07.895</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
-      <Modified>2017-11-10T17:39:29.158</Modified>
+      <Modified>2017-11-10T20:26:07.988</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
-      <Modified>2017-11-10T17:39:29.222</Modified>
+      <Modified>2017-11-10T20:26:08.068</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\nunit.framework.dll">
       <PackagePath>nunit.framework.dll</PackagePath>
-      <Modified>2017-11-10T17:39:29.278</Modified>
+      <Modified>2017-11-10T20:26:08.157</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.UI.dll">
       <PackagePath>UnityEngine.UI.dll</PackagePath>
-      <Modified>2017-11-10T17:39:29.393</Modified>
+      <Modified>2017-11-10T20:26:08.317</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.HoloLens.dll">
       <PackagePath>UnityEngine.HoloLens.dll</PackagePath>
-      <Modified>2017-11-10T17:39:29.454</Modified>
+      <Modified>2017-11-10T20:26:08.368</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\UnityEngine.Networking.dll">
       <PackagePath>UnityEngine.Networking.dll</PackagePath>
-      <Modified>2017-11-10T17:39:29.530</Modified>
+      <Modified>2017-11-10T20:26:08.479</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\Assembly-CSharp.dll">
       <PackagePath>Assembly-CSharp.dll</PackagePath>
-      <Modified>2017-11-10T17:39:27.677</Modified>
+      <Modified>2017-11-10T20:26:05.386</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\bin\x86\Release\Core\Drag the Astronaut.exe">
       <PackagePath>Drag the Astronaut.exe</PackagePath>
-      <Modified>2017-11-10T17:39:32.887</Modified>
+      <Modified>2017-11-10T20:26:12.470</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
