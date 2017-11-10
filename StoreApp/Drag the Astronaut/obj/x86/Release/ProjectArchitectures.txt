@@ -1,0 +1,2 @@
+D:\Source\MR\Drag the Astronaut\StoreApp\Drag the Astronaut\Drag the Astronaut.csproj;x86
+D:\Source\MR\Drag the Astronaut\StoreApp\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
