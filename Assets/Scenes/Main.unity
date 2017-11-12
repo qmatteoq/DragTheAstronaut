@@ -2714,7 +2714,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   HostTransform: {fileID: 0}
   DistanceScale: 1
-  RotationMode: 2
+  RotationMode: 0
   PositionLerpSpeed: 0.2
   RotationLerpSpeed: 0.2
   IsDraggingEnabled: 1
@@ -4648,6 +4648,11 @@ Prefab:
     - target: {fileID: 4000013298573622, guid: 2ed75ffdf9031c94e8bce4b3d17b9928, type: 2}
       propertyPath: m_RootOrder
       value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 114000011154029958, guid: 2ed75ffdf9031c94e8bce4b3d17b9928,
+        type: 2}
+      propertyPath: drawVisualMeshes
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 2ed75ffdf9031c94e8bce4b3d17b9928, type: 2}
