@@ -2643,6 +2643,7 @@ GameObject:
   - component: {fileID: 570897482}
   - component: {fileID: 570897481}
   - component: {fileID: 570897484}
+  - component: {fileID: 570897485}
   m_Layer: 0
   m_Name: AstroMan
   m_TagString: Untagged
@@ -2754,6 +2755,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4b78bc24a7aa9424aa13053b79eb1f54, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &570897485
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 570897477}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fdddde0a1a6d2c40916020f7cae3e16, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &579627562
