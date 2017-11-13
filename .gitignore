@@ -4,7 +4,7 @@
 /[Bb]uild/
 /[Bb]uilds/
 /Assets/AssetStoreTools*
-/HoloensApp
+/HololensApp
 /ImmersiveApp
 
 # Visual Studio 2015 cache directory
