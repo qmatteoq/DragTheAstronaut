@@ -2601,7 +2601,6 @@ GameObject:
   - component: {fileID: 570897480}
   - component: {fileID: 570897479}
   - component: {fileID: 570897478}
-  - component: {fileID: 570897483}
   - component: {fileID: 570897482}
   - component: {fileID: 570897484}
   - component: {fileID: 570897485}
@@ -2678,18 +2677,6 @@ MonoBehaviour:
   SmoothPositionLerpRatio: 0.5
   SmoothRotationLerpRatio: 0.5
   SmoothScaleLerpRatio: 0.5
---- !u!65 &570897483
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 570897477}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
 --- !u!114 &570897484
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11914,7 +11901,7 @@ ParticleSystem:
   moveWithTransform: 1
   moveWithCustomTransform: {fileID: 0}
   scalingMode: 2
-  randomSeed: 602510267
+  randomSeed: 1417795772
   InitialModule:
     serializedVersion: 3
     enabled: 1
